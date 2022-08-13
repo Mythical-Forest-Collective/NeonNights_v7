@@ -1,27 +1,25 @@
 {
-  name: "[acid]Neon[cyan]Nights [yellow]v7"
-  displayName: "[acid]Neon[cyan]Nights [yellow]v7"
-  author: !ereHyddeS
-  description: Makes Mindustry Dark Themed!
-  Credits:
-  [
-    • [white]!ereHyddeS, for making this out of boredom
-    • [white]Antlrr, for contributing lots
-    • [white]Woop, for contributing few
-    • [white]Binonib, for contributing few
-    • [white]Blop, for ideas and for meme dump
-    • [white]Gus, will come for you if you dare steal the mod or do anything similar
-    • [white]Forest, who fixed the mod.hjson
-  ]
-  Changelogs:
-  [
-    This version is similar to 1.3 but extra
-    • Factories and Reconstructors have lighter payload shading
-    • V E L A
-    • Neon Liquid Container
-    • This texture pack is now fully Seddy's thing
-  ]
-  version: "1.4"
-  minGameVersion: "127"
-  hidden: "true"
+  "name": "[acid]Neon[cyan]Nights [yellow]v7",
+  "displayName": "[acid]Neon[cyan]Nights [yellow]v7",
+  "author": "!ereHyddeS",
+  "description": "Makes Mindustry Dark Themed!",
+  "Credits": [
+    "\u2022 [white]!ereHyddeS, for making this out of boredom",
+    "\u2022 [white]Antlrr, for contributing lots",
+    "\u2022 [white]Woop, for contributing few",
+    "\u2022 [white]Binonib, for contributing few",
+    "\u2022 [white]Blop, for ideas and for meme dump",
+    "\u2022 [white]Gus, will come for you if you dare steal the mod or do anything similar"
+    "\u2022 [white]Forest, who fixed the hjson by using JSON instead of fixing this broken mess"
+  ],
+  "Changelogs": [
+    "This version is similar to 1.3 but extra",
+    "\u2022 Factories and Reconstructors have lighter payload shading",
+    "\u2022 V E L A",
+    "\u2022 Neon Liquid Container",
+    "\u2022 This texture pack is now fully Seddy's thing"
+  ],
+  "version": "1.4",
+  "minGameVersion": "127",
+  "hidden": "true"
 }
